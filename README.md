@@ -13,4 +13,4 @@
 * A Stock search using fuzzy controllers : [Fuzzy Search](https://github.com/Jean-Reinhold/fuzzy-stock-search)
 * Computer Vision software to classify Rice : [Rice Classification](https://github.com/Jean-Reinhold/Rice_classification)
 * Clone of the Doom Fire Algo (Also a C++ version) : [Doom Fire](https://jean-reinhold.github.io/doom-fire-clone/)
-* Adaline Neural net to filter Voltage Noise : (Adaline)[https://github.com/Jean-Reinhold/Neural_Adaline_Filtro]
+* Adaline Neural net to filter Voltage Noise : (Adaline)(https://github.com/Jean-Reinhold/Neural_Adaline_Filtro)
