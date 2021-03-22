@@ -8,8 +8,9 @@
 ### About me: 
 
 <img align="right" width="179" height="242" src="https://github.com/Jean-Reinhold/Jean-Reinhold/blob/main/pic.jpg?raw=true">
-I'm graduating as electronics technician looking forward to study computer engineering.\n 
+I'm graduating as electronics technician looking forward to study computer engineering.<br/> 
 Right now I'm applying for a development internship. 
+<br/><br/><br/><br/>
 
 ---
   
