@@ -1,14 +1,13 @@
 # Hi there, I'm Jean Reinhold
 ### If You want to contact me, You can: 
-* send me an  email via jeanpaulrenhold@gmail.com
+* send me an  [email](mailto:jeanpaulrenhold@gmail.com)
 * send a dm on [Linkedin](https://www.linkedin.com/in/jean-paul-reinhold-70b4031b3/)
-<br/><br/><br/>
----
 
+---
 ### About me: 
 I'm graduating as electronics technician looking forward to study computer engineering.<br/> 
 Right now I'm applying for a development internship. 
-<br/><br/><br/>
+
 ---
 ### Check my favorite projects: 
 
