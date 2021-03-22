@@ -3,11 +3,15 @@
 * send me an  email via jeanpaulrenhold@gmail.com
 * send a dm on [Linkedin](https://www.linkedin.com/in/jean-paul-reinhold-70b4031b3/)
 
+---
+
 ### About me: 
 
-<img align="right" width="100" height="100" src="https://github.com/Jean-Reinhold/Jean-Reinhold/blob/main/pic.jpg?raw=true">
+<img align="right" width="179" height="242" src="https://github.com/Jean-Reinhold/Jean-Reinhold/blob/main/pic.jpg?raw=true">
 I'm graduating as electronics technician looking forward to study computer engineering. 
 Right now I'm applying for a development internship. 
+
+---
   
 ### Check my favorite projects: 
 
