@@ -4,11 +4,11 @@
 * send a dm on [Linkedin](https://www.linkedin.com/in/jean-paul-reinhold-70b4031b3/)
 
 ### About me: 
-<p align="center">
+<p align="left">
   <img src="https://github.com/Jean-Reinhold/Jean-Reinhold/blob/main/pic.jpg?raw=true" />
+  I'm graduating as electronics technician looking forward to study computer engineering. 
+  Right now I'm applying for a development internship. 
 </p>
- I'm graduating as electronics technician looking forward to study computer engineering. 
- Right now I'm applying for a development internship. 
   
 ### Check my favorite projects: 
 
