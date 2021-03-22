@@ -2,18 +2,14 @@
 ### If You want to contact me, You can: 
 * send me an  email via jeanpaulrenhold@gmail.com
 * send a dm on [Linkedin](https://www.linkedin.com/in/jean-paul-reinhold-70b4031b3/)
-
+<br/><br/><br/>
 ---
 
 ### About me: 
-
-<img align="right" width="179" height="242" src="https://github.com/Jean-Reinhold/Jean-Reinhold/blob/main/pic.jpg?raw=true">
 I'm graduating as electronics technician looking forward to study computer engineering.<br/> 
 Right now I'm applying for a development internship. 
-<br/><br/><br/><br/>
-
+<br/><br/><br/>
 ---
-  
 ### Check my favorite projects: 
 
 * A bluetooth streamdeck : [StreamDeck](https://github.com/Jean-Reinhold/StreamDeck)
