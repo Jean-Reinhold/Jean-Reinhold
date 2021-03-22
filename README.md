@@ -6,9 +6,9 @@
 ### About me: 
 <p align="center">
   <img src="https://github.com/Jean-Reinhold/Jean-Reinhold/blob/main/pic.png?raw=true" />
-    I'm graduating as electronics technician looking forward to study computer engineering. 
-    Right now I'm applying for a development internship. 
 </p>
+ I'm graduating as electronics technician looking forward to study computer engineering. 
+ Right now I'm applying for a development internship. 
   
 ### Check my favorite projects: 
 
