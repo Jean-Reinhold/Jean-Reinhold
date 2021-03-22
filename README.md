@@ -5,7 +5,7 @@
 
 ### About me: 
 <p align="center">
-  <img src="https://github.com/Jean-Reinhold/Jean-Reinhold/blob/main/pic.png?raw=true" />
+  <img src="https://github.com/Jean-Reinhold/Jean-Reinhold/blob/main/pic.jpg?raw=true" />
 </p>
  I'm graduating as electronics technician looking forward to study computer engineering. 
  Right now I'm applying for a development internship. 
