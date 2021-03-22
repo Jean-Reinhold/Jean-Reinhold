@@ -5,5 +5,7 @@
 
 ### About me: 
   <img align="right" width="100" height="100" src="https://github.com/Jean-Reinhold/Jean-Reinhold/blob/main/pic.png?raw=true/211/156">
+  test
+  <img align="right" width="100" height="100" src="https://github.com/Jean-Reinhold/Jean-Reinhold/blob/main/pic.png?raw=true/211/156">
 
 
