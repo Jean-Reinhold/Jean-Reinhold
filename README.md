@@ -5,7 +5,7 @@
 
 ---
 ### About me: 
-I'm graduating as electronics technician looking forward to study computer engineering.<br/> 
+I'm graduating as electronics technician and starting my bachelor's degree in computer engineering.<br/> 
 Right now I'm applying for a development internship. 
 
 ---
