@@ -1,6 +1,6 @@
 # Jean Reinhold
 
-I am a passionate software engineer dedicated to tackling challenges across diverse domains. Over the course of my career, I have accumulated 1.5 years of valuable experience in developing and deploying machine learning and data applications within industrial settings. Additionally, I possess approximately 2.5 years of expertise in crafting innovative AI solutions for an array of fields, spanning from biotechnologies to real estate projects.
+I am a passionate software engineer dedicated to tackling challenges across diverse domains. Over the course of my career, I have accumulated 5 years of valuable experience in developing and deploying machine learning and data applications within industrial settings. Additionally
 
 <p align="center">
 <br>Chaos Game</br>
